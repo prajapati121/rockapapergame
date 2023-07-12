@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background-image: url(https://img.freepik.com/free-photo/beautiful-view-greenery-bridge-forest-perfect-background_181624-17827.jpg?w=2000);
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.main{
+    color: white;
+    align-items: center;
+    margin-top: 50px;
+}
+.btn{
+    color:white;
+    display: inline-block;
+    background-color: transparent;
+    border: none;
+    border: 1px solid white;
+    font-size: 15px;
+
+    
+}
+.container{
+   text-align: center;
+   margin-top: 50px;
+}
